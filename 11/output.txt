@@ -1,0 +1,4 @@
+11 : Integer
+0.11 : Float
+@12 : Invalid Number
+ab : Invalid Number

@@ -1,0 +1,5 @@
+abc : Valid Identifier
+12var : Invalid Identifier
+@var : Invalid Identifier
+_abc : Valid Identifier
+var123 : Invalid Identifier
