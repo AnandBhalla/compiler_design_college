@@ -1,0 +1,2 @@
+Welcome to the world of Lex and Yacc! Lex is used for lexical analysis. It helps in recognizing tokens. Multiple spaces and new lines should be counted. 
+Total whitespace characters: 54
